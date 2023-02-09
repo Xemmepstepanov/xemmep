@@ -1,0 +1,15 @@
+D:\test\Numer\obj\Debug\net7.0\Numer.csproj.AssemblyReference.cache
+D:\test\Numer\obj\Debug\net7.0\Numer.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\Numer\obj\Debug\net7.0\Numer.AssemblyInfoInputs.cache
+D:\test\Numer\obj\Debug\net7.0\Numer.AssemblyInfo.cs
+D:\test\Numer\obj\Debug\net7.0\Numer.csproj.CoreCompileInputs.cache
+D:\test\Numer\bin\Debug\net7.0\Numer.exe
+D:\test\Numer\bin\Debug\net7.0\Numer.deps.json
+D:\test\Numer\bin\Debug\net7.0\Numer.runtimeconfig.json
+D:\test\Numer\bin\Debug\net7.0\Numer.dll
+D:\test\Numer\bin\Debug\net7.0\Numer.pdb
+D:\test\Numer\obj\Debug\net7.0\Numer.dll
+D:\test\Numer\obj\Debug\net7.0\refint\Numer.dll
+D:\test\Numer\obj\Debug\net7.0\Numer.pdb
+D:\test\Numer\obj\Debug\net7.0\Numer.genruntimeconfig.cache
+D:\test\Numer\obj\Debug\net7.0\ref\Numer.dll
